@@ -1,0 +1,37 @@
+img {
+    width: 200px;
+    border-radius: 100px;
+ }
+#div_speed  {
+    float: left;
+}
+#div_volume  {
+    float: right;
+}
+body {background-image:url(1131960.jpg);
+background-size: cover;}
+#volume {
+    background-color: aqua;
+    border-radius: 50px;
+}
+#speed {
+    
+    background-color: aqua;
+    border-radius: 50px;
+}
+#sla {
+    font-size: 20px;
+    background-color: aqua;
+    border-radius: 50px;
+}
+#esquerda { float: left;
+font-size: x-large;}
+#direita {
+    float: right;
+    font-size: x-large;
+}
+canvas {
+    border: 5px solid black;
+    border-radius: 15px;
+    margin-top: -200px;
+}
